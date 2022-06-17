@@ -1,0 +1,6 @@
+pandas==1.4.2
+yfinance==0.1.70
+matplotlib==3.5.2
+seaborn==0.11.2
+ta==0.10.1
+TA_Lib-0.4.20-cp39-cp39-win_amd64.whl
